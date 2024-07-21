@@ -1,6 +1,5 @@
 **Car Service App (React)**
-A web application for managing car services built with React, Node.js, Express, and MongoDB.
-
+A web application for managing car services built with React.
 **Table of Contents**
   Features
   Tech Stack
